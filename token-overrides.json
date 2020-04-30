@@ -20,21 +20,31 @@
   "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e": {
     "name": "Bloom"
   },
-  "0x493c57c4763932315a328269e1adad09653b9081": {
-    "name": "bZx Dai"
-  },
-  "0x14094949152eddbfcd073717200da82fed8dc960": {
-    "name": "bZx Sai"
-  },
   "0x514910771AF9Ca656af840dff83E8264EcF986CA": {
     "name": "Chainlink"
   },
   "0x41e5560054824eA6B0732E656E3Ad64E20e94E45": {
     "name": "Civic"
   },
+  "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e": {
+    "name": "Compound Basic Attention Token",
+    "symbol": "cBAT"
+  },
+  "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643": {
+    "name": "Compound Dai",
+    "symbol": "cDAI"
+  },
   "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC": {
     "name": "Compound Sai",
     "symbol": "cSAI"
+  },
+  "0x39aa39c021dfbae8fac545936693ac917d5e7563": {
+    "name": "Compound USD Coin",
+    "symbol": "cUSDC"
+  },
+  "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4": {
+    "name": "Compound Wrapped Bitcoin",
+    "symbol": "cWBTC"
   },
   "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08": {
     "name": "CryptoFranc"
@@ -56,6 +66,18 @@
   },
   "0x4946Fcea7C692606e8908002e55A582af44AC121": {
     "name": "FOAM"
+  },
+  "0x493c57c4763932315a328269e1adad09653b9081": {
+    "name": "Fulcrum Dai",
+    "symbol": "iDAI"
+  },
+  "0x14094949152eddbfcd073717200da82fed8dc960": {
+    "name": "Fulcrum Sai",
+    "symbol": "iSAI"
+  },
+  "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
+    "name": "Fulcrum USD Coin",
+    "symbol": "iUSDC"
   },
   "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b": {
     "name": "FunFair"
@@ -125,7 +147,8 @@
     "name": "Rocket Pool"
   },
   "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359": {
-    "name": "Sai"
+    "name": "Sai",
+    "symbol": "SAI"
   },
   "0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2": {
     "name": "Saint Fame"
@@ -154,7 +177,7 @@
   "0xdac17f958d2ee523a2206206994597c13d831ec7": {
     "name": "Tether"
   },
-  "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E": {
+  "0x0000000000085d4780b73119b644ae5ecd22b376": {
     "name": "TrueUSD"
   },
   "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5": {
